@@ -1,0 +1,25 @@
+{
+  "name": "hapiFileServer",
+  "version": "0.0.0",
+  "description": "hapiFileServer ==============",
+  "main": "index.js",
+  "scripts": {
+    "start-local": "supervisor -w './lib,./' ./scripts/start-local.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vicwin/hapiFileServer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicwin/hapiFileServer/issues"
+  },
+  "homepage": "https://github.com/vicwin/hapiFileServer",
+  "dependencies": {
+    "hapi": "5.x.x",
+    "hoek": "2.x.x",
+    "boom": "2.x.x"
+  }
+}

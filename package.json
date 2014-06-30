@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git://github.com/vicwin/hapiFileServer.git"
   },
-  "author": "",
+  "author": "Victor Huang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vicwin/hapiFileServer/issues"
